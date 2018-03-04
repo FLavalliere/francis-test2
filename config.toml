@@ -109,7 +109,7 @@ watch = true
     languagename = "Francais"
     message = "John Doe ist Designer, Referent und Autor. Er ist der Creative Director bei Awesome Design Studio, Mitbegründer des Magazines Camera und ein Kaffee-Junkie."
     paginatepath = "seite"
-    title = "Mon Blog!"
+    title = "Mes idees!"
     value = "fr"
     weight = 10.0
 
